@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     const celebrities = [
-        { name: "Celebrity1", netWorth: "$100 Million", image: "images/Celebrity1.jpg" },
+        { name: "Celebrity 1", netWorth: "$100 Million", image: "images/Celebrity1.jpg" },
         // Add more celebrities as needed
     ];
 
